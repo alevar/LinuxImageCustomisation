@@ -1,0 +1,6 @@
+*.iso
+*.zip
+/img
+.install.sh.swo
+log.txt
+reportOS.txt
